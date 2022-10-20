@@ -13,13 +13,16 @@
     * Data preprocessing
     * Sentiment analysis (by **Naver's CLOVA Sentiment API**)
         * https://www.ncloud.com/product/aiService/clovaSentiment
+    * Result:
+
         * |index|artist|positive|negative|sent\_score|
           |---|---|---|---|---|
           |0|Sung Si-kyung|49\.473159327852535|67\.63758043738649|42\.24|
           |1|Jang Beom-june|65\.950075205031|88\.12241754940153|42\.8|
         
-        
     * Word clouds
+        * <img title="word cloud" alt="Alt text" src="/outputs/D12_sung_wordcloud.jpg">
+
 
 * Again, this analysis is for purely entertainment purposes only! They are both great artists loved by a lot of Korean people.
     
