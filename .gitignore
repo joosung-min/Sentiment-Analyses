@@ -1,5 +1,6 @@
 fonts/
-Sung_Si-kyung-vs-Jang_Beom-june/A1*
+Sung_Si-kyung-vs-Jang_Beom-june/A1
+*outputs/*.csv
 *.DS_Store
 
 # Byte-compiled / optimized / DLL files
