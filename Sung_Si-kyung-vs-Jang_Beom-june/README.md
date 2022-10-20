@@ -27,6 +27,8 @@
         * ![Sung's word cloud](./outputs/D12_sung_wordcloud.jpg) ![Jang's word cloud](./outputs/D12_jang_wordcloud.jpg) 
 
 
-### **Again, this analysis is for purely entertainment purposes only!** They are both great artists loved by a lot of Korean people.
+### **Again, this analysis is for purely entertainment purposes only!** 
+
+* They are both great artists loved by a lot of Korean people.
     
 I hope you enjoy this notebook!
