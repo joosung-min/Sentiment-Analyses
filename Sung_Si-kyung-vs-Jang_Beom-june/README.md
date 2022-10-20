@@ -20,6 +20,7 @@
           |---|---|---|---|---|
           |0|Sung Si-kyung|49\.473159327852535|67\.63758043738649|42\.24|
           |1|Jang Beom-june|65\.950075205031|88\.12241754940153|42\.8|
+          where sent_score = positive / (positive + negative)
         
     * Word clouds
         * ![Sung's word cloud](./outputs/D12_sung_wordcloud.jpg) ![Jang's word cloud](./outputs/D12_jang_wordcloud.jpg) 
