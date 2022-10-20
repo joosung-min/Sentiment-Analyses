@@ -9,7 +9,7 @@
     * Personally, I'm a fan of Sung :)
 * In this notebook, we try to determine which one of the two artists the users of the website prefer 'subjectively' using the sentiment analysis.
    * **This analysis is for fun only!** 
-   * The result of this analysis should not be used as the evidence for decisively picking the winner.
+   * The result of this analysis should not be used as an evidence for decisively choosing the winner.
 * This notebook proceeds as follows:
     * Data preprocessing
     * Sentiment analysis (by **Naver's CLOVA Sentiment API**)
