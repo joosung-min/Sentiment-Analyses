@@ -17,10 +17,7 @@
 
     * Result: Jang Beom-june is favoured over Sung Si-kyung on this particular website. 
 
-        * |index|artist|positive|negative|sent\_score|
-          |---|---|---|---|---|
-          |0|Sung Si-kyung|49\.473159327852535|67\.63758043738649|42\.24|
-          |1|Jang Beom-june|65\.950075205031|88\.12241754940153|42\.8|
+        * ![Result](./outputs/D12_result_c_by_c.png)
 
           where sent_score = positive / (positive + negative)
         
