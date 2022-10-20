@@ -21,7 +21,7 @@
           |1|Jang Beom-june|65\.950075205031|88\.12241754940153|42\.8|
         
     * Word clouds
-        * |![Sung's word cloud](./outputs/D12_sung_wordcloud.jpg)  |  ![Jang's word cloud](./outputs/D12_jang_wordcloud.jpg) |
+        * ![Sung's word cloud](./outputs/D12_sung_wordcloud.jpg) ![Jang's word cloud](./outputs/D12_jang_wordcloud.jpg) 
 
 
 * Again, this analysis is for purely entertainment purposes only! They are both great artists loved by a lot of Korean people.
