@@ -15,7 +15,7 @@
     * Sentiment analysis (by **Naver's CLOVA Sentiment API**)
         * https://www.ncloud.com/product/aiService/clovaSentiment
 
-    * Result: Jang Beom-june is favoured over Sung Si-kyung on this particular website. 
+    * **Result: Sung Si-kyung favoured over Jang Beom-june on this particular website.** 
 
         * ![Result](./outputs/D12_result_c_by_c.png)
 
