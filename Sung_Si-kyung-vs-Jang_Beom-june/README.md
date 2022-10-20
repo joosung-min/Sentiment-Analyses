@@ -13,7 +13,8 @@
     * Data preprocessing
     * Sentiment analysis (by **Naver's CLOVA Sentiment API**)
         * https://www.ncloud.com/product/aiService/clovaSentiment
-    * Result:
+
+    * Result: Jang Beom-june is favoured over Sung Si-kyung on this particular website. 
 
         * |index|artist|positive|negative|sent\_score|
           |---|---|---|---|---|
@@ -24,6 +25,6 @@
         * ![Sung's word cloud](./outputs/D12_sung_wordcloud.jpg) ![Jang's word cloud](./outputs/D12_jang_wordcloud.jpg) 
 
 
-* Again, this analysis is for purely entertainment purposes only! They are both great artists loved by a lot of Korean people.
+### **Again, this analysis is for purely entertainment purposes only!** They are both great artists loved by a lot of Korean people.
     
-* I hope you enjoy this notebook!
+I hope you enjoy this notebook!
