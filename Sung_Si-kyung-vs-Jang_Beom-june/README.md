@@ -1,7 +1,5 @@
 # [Sentiment Analysis] Sung Si-kyung vs. Jang Beom-june
 
-(Korean title: [Sentiment Analysis] 감성분석을 활용하여 알아보는 성시경 vs.장범준 논란의 '주관적인' 승자는?)
-
 * There was a heated debated on a Korean website about 'Which one of Sung Si-kyung or Jang Beom-june is a greater artist than the other?'. Below are ones of their most hit songs.
     * Sung Si-kyung: "On the road" https://youtu.be/v_K4tnMYsn4?t=54
     * Jang Beom-june: "Cherry blossom ending" https://www.youtube.com/watch?v=tbJX9f2MYPs
